@@ -1,4 +1,5 @@
-# Tiumestamp GIT
+# Timestamp GIT
 Support Repository
 
-## Simply open an issue
+## How to create a support issue
+* Simply open an issue here on Github
